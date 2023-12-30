@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b1e0729e-b874-4942-ab84-7a96fe4fac2d/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/mlsa-work/deploymentNASlots/subscriptions/b1e0729e-b874-4942-ab84-7a96fe4fac2d/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/mlsawork",
+    "appService.deploySubpath": "."
+}
