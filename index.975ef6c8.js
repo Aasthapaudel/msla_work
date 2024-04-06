@@ -27097,8 +27097,8 @@ var _stylesCss = require("./styles.css");
     twitter: "microsoft",
     youTube: "Code"
 };
-const primaryColor = "#4E567E";
-const secondaryColor = "#D2F1E4";
+const primaryColor = "#69e81f";
+const secondaryColor = "#69e81f";
 const App = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         id: "main",
