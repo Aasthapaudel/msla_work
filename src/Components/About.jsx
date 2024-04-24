@@ -24,7 +24,11 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
+<<<<<<< HEAD
   "A passionate backened developer, AI enthusiast with learning and exploring things.";
+=======
+  "I'm a Undergraduate computer engineering student studying at Tribhuvan University. I love coding and spend most of the time in problem solving.";
+>>>>>>> 880eab4 (Commit made from VS Code Azure Static Web Apps)
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -32,10 +36,17 @@ const description =
  */
 const skillsList = [
   "Web design",
+<<<<<<< HEAD
   "User experience",
   "Machine learning",
   "DSA",
   "Laravel",
+=======
+  "Laravel",
+  "DSA",
+  "Problem solving",
+  "Machine learning",
+>>>>>>> 880eab4 (Commit made from VS Code Azure Static Web Apps)
   "Graphic design",
   "Postgres SQL",
 ];
@@ -46,7 +57,11 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
+<<<<<<< HEAD
   "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my Backened Developer, I continually look for new and better ways to make tech accessible by all.";
+=======
+  "I am passionate backened developer, AI enthusiast with learning and exploring things."
+>>>>>>> 880eab4 (Commit made from VS Code Azure Static Web Apps)
 
 const About = () => {
   return (
